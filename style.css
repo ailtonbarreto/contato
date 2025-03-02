@@ -111,6 +111,23 @@ a{
 
 }
 
+.whats img{
+    width: 10vw;
+}
+
+.linkedin img{
+    width: 10vw;
+}
+
+.instagram img{
+    width: 10vw;
+}
+
+.email img{
+    width: 10vw;
+}
+
+
 #database{
     position: absolute;
     z-index: -1;
