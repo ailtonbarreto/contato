@@ -30,9 +30,16 @@ body{
     font-family: 'MinhaFonte', sans-serif;
 }
 
+.avatar{
+    margin-top: 10vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
 
 .avatar img{
     width: 70vw;
+    margin-top: 10vw;
     margin-bottom: -5px;
 }
 
@@ -41,7 +48,6 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 10vw;
 }
 
 .social{
