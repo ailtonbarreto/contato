@@ -32,7 +32,7 @@ body{
 
 
 .avatar img{
-    width: 80vw;
+    width: 70vw;
     margin-bottom: -5px;
 }
 
@@ -104,7 +104,7 @@ hr{
 }
 
 #database{
-    position: fixed;
+    position: absolute;
     z-index: -1;
     opacity: 30%;
     top: 50vw;
@@ -113,7 +113,7 @@ hr{
 }
 
 #python{
-    position: fixed;
+    position: absolute;
     z-index: -1;
     opacity: 30%;
     top: 85vw;
@@ -122,7 +122,7 @@ hr{
 }
 
 #node{
-    position: fixed;
+    position: absolute;
     z-index: -1;
     opacity: 30%;
     top: 22vw;
@@ -131,7 +131,7 @@ hr{
 }
 
 #powerbi{
-    position: fixed;
+    position: absolute;
     z-index: -1;
     opacity: 30%;
     top: 35vw;
@@ -140,7 +140,7 @@ hr{
 }
 
 #excel{
-    position: fixed;
+    position: absolute;
     z-index: -1;
     opacity: 30%;
     top: 80vw;
